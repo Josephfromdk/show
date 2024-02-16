@@ -1,0 +1,21 @@
+
+ul{
+    display: flex;
+    justify-content: center;
+    list-style-type: none;
+}
+
+li a{
+    margin: 10px;
+    text-decoration: none;
+    color: rgba(0, 0, 0, 0.60);
+    padding:10px;
+    border-radius: 3px;
+    
+}
+
+li a:hover{
+  color: rgba(0, 0, 0, 1)
+    
+   
+}
